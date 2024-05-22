@@ -1,0 +1,117 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/Art/Meter/JP_GrandBase_Idle/JP_GrandBase_Idle-0.tpsheet
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
+- Assets/Texture/Animation/Transition/Bonus_TransitionB/Bonus_TransitionB-0.tpsheet
+- Assets/Texture/Animation/Transition/Bonus_TransitionB/Bonus_TransitionB-1.tpsheet
+- Assets/Texture/Animation/Transition/Bonus_TransitionB/Bonus_TransitionB-2.tpsheet
+- Assets/Texture/Animation/Transition/Bonus_TransitionB/Bonus_TransitionB-3.tpsheet
+- Assets/Texture/Animation/Transition/Bonus_TransitionB/Bonus_TransitionB-4.tpsheet
+- Assets/Texture/Animation/Transition/Bonus_TransitionG/Bonus_TransitionG-0.tpsheet
+- Assets/Texture/Animation/Transition/Bonus_TransitionG/Bonus_TransitionG-1.tpsheet
+- Assets/Texture/Animation/Transition/Bonus_TransitionG/Bonus_TransitionG-2.tpsheet
+- Assets/Texture/Animation/Transition/Bonus_TransitionG/Bonus_TransitionG-3.tpsheet
+- Assets/Texture/Animation/Transition/Bonus_TransitionG/Bonus_TransitionG-4.tpsheet
+- Assets/Texture/Animation/Transition/Bonus_TransitionGB/Bonus_TransitionGB-0.tpsheet
+- Assets/Texture/Animation/Transition/Bonus_TransitionGB/Bonus_TransitionGB-1.tpsheet
+- Assets/Texture/Animation/Transition/Bonus_TransitionGB/Bonus_TransitionGB-2.tpsheet
+- Assets/Texture/Animation/Transition/Bonus_TransitionGB/Bonus_TransitionGB-3.tpsheet
+- Assets/Texture/Animation/Transition/Bonus_TransitionGB/Bonus_TransitionGB-4.tpsheet
+- Assets/Texture/Animation/Transition/Bonus_TransitionR/Bonus_TransitionR-0.tpsheet
+- Assets/Texture/Animation/Transition/Bonus_TransitionR/Bonus_TransitionR-1.tpsheet
+- Assets/Texture/Animation/Transition/Bonus_TransitionR/Bonus_TransitionR-2.tpsheet
+- Assets/Texture/Animation/Transition/Bonus_TransitionR/Bonus_TransitionR-3.tpsheet
+- Assets/Texture/Animation/Transition/Bonus_TransitionR/Bonus_TransitionR-4.tpsheet
+- Assets/Texture/Animation/Transition/Bonus_TransitionRB/Bonus_TransitionRB-0.tpsheet
+- Assets/Texture/Animation/Transition/Bonus_TransitionRB/Bonus_TransitionRB-1.tpsheet
+- Assets/Texture/Animation/Transition/Bonus_TransitionRB/Bonus_TransitionRB-2.tpsheet
+- Assets/Texture/Animation/Transition/Bonus_TransitionRB/Bonus_TransitionRB-3.tpsheet
+- Assets/Texture/Animation/Transition/Bonus_TransitionRB/Bonus_TransitionRB-4.tpsheet
+- Assets/Texture/Animation/Transition/Bonus_TransitionRG/Bonus_TransitionRG-0.tpsheet
+- Assets/Texture/Animation/Transition/Bonus_TransitionRG/Bonus_TransitionRG-1.tpsheet
+- Assets/Texture/Animation/Transition/Bonus_TransitionRG/Bonus_TransitionRG-2.tpsheet
+- Assets/Texture/Animation/Transition/Bonus_TransitionRG/Bonus_TransitionRG-3.tpsheet
+- Assets/Texture/Animation/Transition/Bonus_TransitionRG/Bonus_TransitionRG-4.tpsheet
+- Assets/Texture/Animation/Transition/Bonus_TransitionRGB/Bonus_TransitionRGB-0.tpsheet
+- Assets/Texture/Animation/Transition/Bonus_TransitionRGB/Bonus_TransitionRGB-1.tpsheet
+- Assets/Texture/Animation/Transition/Bonus_TransitionRGB/Bonus_TransitionRGB-2.tpsheet
+- Assets/Texture/Animation/Transition/Bonus_TransitionRGB/Bonus_TransitionRGB-3.tpsheet
+- Assets/Texture/Animation/Transition/Bonus_TransitionRGB/Bonus_TransitionRGB-4.tpsheet
+textureFileNames:
+- Assets/Art/Meter/JP_GrandBase_Idle/JP_GrandBase_Idle-0.png
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.png
+- Assets/Texture/Animation/Transition/Bonus_TransitionB/Bonus_TransitionB-0.png
+- Assets/Texture/Animation/Transition/Bonus_TransitionB/Bonus_TransitionB-1.png
+- Assets/Texture/Animation/Transition/Bonus_TransitionB/Bonus_TransitionB-2.png
+- Assets/Texture/Animation/Transition/Bonus_TransitionB/Bonus_TransitionB-3.png
+- Assets/Texture/Animation/Transition/Bonus_TransitionB/Bonus_TransitionB-4.png
+- Assets/Texture/Animation/Transition/Bonus_TransitionG/Bonus_TransitionG-0.png
+- Assets/Texture/Animation/Transition/Bonus_TransitionG/Bonus_TransitionG-1.png
+- Assets/Texture/Animation/Transition/Bonus_TransitionG/Bonus_TransitionG-2.png
+- Assets/Texture/Animation/Transition/Bonus_TransitionG/Bonus_TransitionG-3.png
+- Assets/Texture/Animation/Transition/Bonus_TransitionG/Bonus_TransitionG-4.png
+- Assets/Texture/Animation/Transition/Bonus_TransitionGB/Bonus_TransitionGB-0.png
+- Assets/Texture/Animation/Transition/Bonus_TransitionGB/Bonus_TransitionGB-1.png
+- Assets/Texture/Animation/Transition/Bonus_TransitionGB/Bonus_TransitionGB-2.png
+- Assets/Texture/Animation/Transition/Bonus_TransitionGB/Bonus_TransitionGB-3.png
+- Assets/Texture/Animation/Transition/Bonus_TransitionGB/Bonus_TransitionGB-4.png
+- Assets/Texture/Animation/Transition/Bonus_TransitionR/Bonus_TransitionR-0.png
+- Assets/Texture/Animation/Transition/Bonus_TransitionR/Bonus_TransitionR-1.png
+- Assets/Texture/Animation/Transition/Bonus_TransitionR/Bonus_TransitionR-2.png
+- Assets/Texture/Animation/Transition/Bonus_TransitionR/Bonus_TransitionR-3.png
+- Assets/Texture/Animation/Transition/Bonus_TransitionR/Bonus_TransitionR-4.png
+- Assets/Texture/Animation/Transition/Bonus_TransitionRB/Bonus_TransitionRB-0.png
+- Assets/Texture/Animation/Transition/Bonus_TransitionRB/Bonus_TransitionRB-1.png
+- Assets/Texture/Animation/Transition/Bonus_TransitionRB/Bonus_TransitionRB-2.png
+- Assets/Texture/Animation/Transition/Bonus_TransitionRB/Bonus_TransitionRB-3.png
+- Assets/Texture/Animation/Transition/Bonus_TransitionRB/Bonus_TransitionRB-4.png
+- Assets/Texture/Animation/Transition/Bonus_TransitionRG/Bonus_TransitionRG-0.png
+- Assets/Texture/Animation/Transition/Bonus_TransitionRG/Bonus_TransitionRG-1.png
+- Assets/Texture/Animation/Transition/Bonus_TransitionRG/Bonus_TransitionRG-2.png
+- Assets/Texture/Animation/Transition/Bonus_TransitionRG/Bonus_TransitionRG-3.png
+- Assets/Texture/Animation/Transition/Bonus_TransitionRG/Bonus_TransitionRG-4.png
+- Assets/Texture/Animation/Transition/Bonus_TransitionRGB/Bonus_TransitionRGB-0.png
+- Assets/Texture/Animation/Transition/Bonus_TransitionRGB/Bonus_TransitionRGB-1.png
+- Assets/Texture/Animation/Transition/Bonus_TransitionRGB/Bonus_TransitionRGB-2.png
+- Assets/Texture/Animation/Transition/Bonus_TransitionRGB/Bonus_TransitionRGB-3.png
+- Assets/Texture/Animation/Transition/Bonus_TransitionRGB/Bonus_TransitionRGB-4.png
+normalmapFileNames:
+- 
+- Assets/codeandweb.com/Example/SpriteSheet/sprites_n.png
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+enableDebugOutput: 0

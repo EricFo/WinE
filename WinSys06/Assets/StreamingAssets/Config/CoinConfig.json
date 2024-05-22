@@ -1,0 +1,19 @@
+{
+  "CoinsLevelCount": {
+    "free1": [ 2, 3, 4, 4],
+    "free2": [ 2, 3, 4, 4],
+    "free3": [ 2, 3, 4, 4]
+  },
+
+  "CoinsLevelCountProbability": {
+    "free1": [ 0.8, 0.6, 0.4 ,0.25],
+    "free2": [ 0.8, 0.6, 0.4 ,0.25],
+    "free3": [ 0.8, 0.6, 0.4 ,0.25]
+  },
+  
+  "PlayFlickerProbability": {
+    "free1": [ 0.5, 0.4, 0.3,0.2],
+    "free2": [ 0.5, 0.4, 0.3,0.2],
+    "free3": [ 0.5, 0.4, 0.3,0.2]
+  }
+}
