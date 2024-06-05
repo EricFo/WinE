@@ -1,0 +1,22 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:9d6defa50412b14551c16896dce8c386:ebf99ce7442f5ecb67fa0122d25445ce:bdca4bbf55de488ee275989a272cfe82$
+#
+:format=40300
+:texture=Bonus_TransitionGB-0.png
+:size=3848x3248
+:pivotpoints=enabled
+:borders=disabled
+
+Bonus_TransitionGB_000;1;3246;1;1; 960;-539; 0;0;0;0; 4;0;1;1;1;1;0;0;0; 2;0;1;2;0;2;3
+Bonus_TransitionGB_001;4;2167;1920;1080; 0.5;0.5; 0;0;0;0; 4;1920;0;0;0;0;1080;1920;1080; 2;1;2;3;0;1;3
+Bonus_TransitionGB_002;1926;2167;1920;1080; 0.5;0.5; 0;0;0;0; 4;1920;0;0;0;0;1080;1920;1080; 2;1;2;3;0;1;3
+Bonus_TransitionGB_003;1;1085;1920;1080; 0.5;0.5; 0;0;0;0; 4;1920;0;0;0;0;1080;1920;1080; 2;1;2;3;0;1;3
+Bonus_TransitionGB_004;1923;1085;1920;1080; 0.5;0.5; 0;0;0;0; 4;1920;0;0;0;0;1080;1920;1080; 2;1;2;3;0;1;3
+Bonus_TransitionGB_005;1;3;1920;1080; 0.5;0.5; 0;0;0;0; 4;1920;0;0;0;0;1080;1920;1080; 2;1;2;3;0;1;3
+Bonus_TransitionGB_006;1923;3;1920;1080; 0.5;0.5; 0;0;0;0; 4;1920;0;0;0;0;1080;1920;1080; 2;1;2;3;0;1;3
+Bonus_TransitionGB_029;1;3246;1;1; 960;-539; 0;0;0;0; 4;0;1;1;1;1;0;0;0; 2;0;1;2;0;2;3

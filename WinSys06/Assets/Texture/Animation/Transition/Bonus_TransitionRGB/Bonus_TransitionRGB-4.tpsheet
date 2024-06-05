@@ -1,0 +1,18 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:274f48e08c3cc69438601e3400ec399c:57894cf6577005f807a34eaf83a3bf10:1993a73df227e7ae3139b8e31a58b6fa$
+#
+:format=40300
+:texture=Bonus_TransitionRGB-4.png
+:size=3844x2164
+:pivotpoints=enabled
+:borders=disabled
+
+Bonus_TransitionRGB_025;1;1083;1920;1080; 0.5;0.5; 0;0;0;0; 4;1920;0;0;0;0;1080;1920;1080; 2;1;2;3;0;1;3
+Bonus_TransitionRGB_026;1923;1083;1920;1080; 0.5;0.5; 0;0;0;0; 4;1920;0;0;0;0;1080;1920;1080; 2;1;2;3;0;1;3
+Bonus_TransitionRGB_027;1;1;1920;1080; 0.5;0.5; 0;0;0;0; 4;1920;0;0;0;0;1080;1920;1080; 2;1;2;3;0;1;3
+Bonus_TransitionRGB_028;1923;1;1920;1080; 0.5;0.5; 0;0;0;0; 4;1920;0;0;0;0;1080;1920;1080; 2;1;2;3;0;1;3
